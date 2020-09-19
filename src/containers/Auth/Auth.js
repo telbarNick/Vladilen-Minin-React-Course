@@ -44,6 +44,7 @@ export default class Auth extends React.Component {
     registerHandler = () => {
         
     }
+
     submitHandler = event => {
         event.preventDefault()
     }
